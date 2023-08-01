@@ -7,3 +7,6 @@ add thinkdome
 
 add main code
 
+view good
+
+
